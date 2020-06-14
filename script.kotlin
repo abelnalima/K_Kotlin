@@ -1,7 +1,0 @@
-fun main(){
-    var teste1 Integer = 2
-    var teste2 Integer = 10
-    var teste3 Boolean = true
-    var teste4 Boolean = false
-    var teste5 Integer = 5 + 5
-}
